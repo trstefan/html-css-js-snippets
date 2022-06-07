@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Joan&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Joan", sans-serif;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dcc9b6;
+}
+
+.container {
+  background-color: #abc4ab;
+  width: 65%;
+  text-align: center;
+  padding: 0.5rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 25px 10px #ab8476;
+}
+
+h2 {
+  color: #6d4c3d;
+  opacity: 0.8;
+  letter-spacing: 2px;
+}
+
+.joke {
+  font-size: 30px;
+  letter-spacing: 1px;
+  line-height: 40px;
+  margin: 2rem auto;
+  color: #6d4c3d;
+}
+
+.btn {
+  background-color: #727d71;
+  color: aliceblue;
+  padding: 0.8rem;
+  border-radius: 15px;
+  border: none;
+}
+
+.btn:hover {
+  background-color: aliceblue;
+  color: #727d71;
+  cursor: pointer;
+}

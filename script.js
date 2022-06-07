@@ -1,4 +1,5 @@
-const projects = ["Countdown"];
+const projects = ["Countdown",
+"Jokes Generator"];
 
 const list = document.getElementById("list-projects");
 
