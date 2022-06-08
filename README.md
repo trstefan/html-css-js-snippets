@@ -1,5 +1,7 @@
 # Purpose 
+*n Days of Code* it's a challenge (similar to #100DaysOfCode challenge) that's meant to help me improve my coding skills by creating projects (a project could be: an app, a component, a website, a game, a library, etc) 
 
+# Projects list 
 |Day             |Project    | Demo Link     | Code Link |
 |----------------| -----------|:-------------:| ---------:|
 |001 - 06/06/2022| Countdown |[Countdown demo]|[Countdown code]|
