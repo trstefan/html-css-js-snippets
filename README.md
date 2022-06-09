@@ -4,14 +4,16 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 
 # Projects list
 
-| Day                               | Project         |    Demo Link     |        Code Link |
-| --------------------------------- | --------------- | :--------------: | ---------------: | --- |
-| 001 - 06/06/2022                  | Countdown       | [Countdown demo] | [Countdown code] |
-| 002 - 07/06/2022                  | Jokes generator |   [Jokes demo]   |     [Jokes code] |
-| 003 - 08/06/2022 \* Still in work | The Grid        |                  |                  |
-| 004 - 09/06/2022                  | The Grid        | Spotify waveform |                  |     |
+| Day                               | Project          |    Demo Link     |        Code Link |
+| --------------------------------- | ---------------- | :--------------: | ---------------: |
+| 001 - 06/06/2022                  | Countdown        | [Countdown demo] | [Countdown code] |
+| 002 - 07/06/2022                  | Jokes generator  |   [Jokes demo]   |     [Jokes code] |
+| 003 - 08/06/2022 \* Still in work | The Grid         |                  |                  |
+| 004 - 09/06/2022                  | Spotify waveform | [waveform demo]  |  [waveform code] |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
 [jokes demo]: https://trstefan.github.io/ndaysofcode/Jokes%20Generator/index.html
 [jokes code]: https://github.com/trstefan/ndaysofcode/tree/master/Jokes%20Generator
+[waveform demo]: https://trstefan.github.io/ndaysofcode/Spotify%20waveform/index.html
+[waveform code]: https://github.com/trstefan/ndaysofcode/tree/master/Spotify%20waveform
