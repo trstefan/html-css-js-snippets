@@ -1,3 +1,8 @@
+:root {
+  /*Teams colours */
+  --redbull: #3571c6;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -65,4 +70,22 @@ body {
   background-color: blueviolet;
   color: white;
   transform: rotateY(180deg);
+}
+
+.driver-card-back .header {
+  display: flex;
+  padding: 1rem 0;
+  border-bottom: 1px #fff solid;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+.flag img {
+  width: 75px;
+  height: 55px;
+}
+
+.team img {
+  width: 80%;
+  height: 4rem;
 }
