@@ -2,7 +2,7 @@ const projects = [
   "Countdown",
   "Jokes Generator",
   "Spotify waveform",
-  "The parallax effect",
+  "Parallax design",
 ];
 
 const list = document.getElementById("list-projects");
