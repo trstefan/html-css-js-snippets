@@ -1,0 +1,62 @@
+body,
+html {
+  margin: 0;
+  height: 100%;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+
+/*
+  set the parallax effect 
+ */
+.dimag1,
+.dimag2,
+.dimag3 {
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.dimag1 {
+  background-image: url(./images/image1.jpg);
+  min-height: 100%;
+}
+
+.dimag2 {
+  background-image: url(./images/image2.jpg);
+  min-height: 25em;
+}
+
+.dimag3 {
+  background-image: url(./images/image3.jpg);
+  min-height: 25em;
+}
+
+.section {
+  text-align: center;
+  padding: 50px 80px;
+}
+
+.section-dark {
+  background: #151515;
+  color: #b4a5a5;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  width: 100%;
+  color: #151515;
+  font-size: 3.5em;
+  text-transform: uppercase;
+}
+
+.ptext .bords {
+  padding: 10px;
+  color: #f8f4e1;
+}

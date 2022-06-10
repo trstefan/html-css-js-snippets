@@ -1,6 +1,9 @@
-const projects = ["Countdown",
-"Jokes Generator",
-"Spotify waveform"];
+const projects = [
+  "Countdown",
+  "Jokes Generator",
+  "Spotify waveform",
+  "The parallax effect",
+];
 
 const list = document.getElementById("list-projects");
 

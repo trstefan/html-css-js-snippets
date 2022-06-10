@@ -4,12 +4,12 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 
 # Projects list
 
-| Day                               | Project          |    Demo Link     |        Code Link |
-| --------------------------------- | ---------------- | :--------------: | ---------------: |
-| 001 - 06/06/2022                  | Countdown        | [Countdown demo] | [Countdown code] |
-| 002 - 07/06/2022                  | Jokes generator  |   [Jokes demo]   |     [Jokes code] |
-| 003 - 08/06/2022 \* Still in work | The Grid         |                  |                  |
-| 004 - 09/06/2022                  | Spotify waveform | [waveform demo]  |  [waveform code] |
+| Day   | Project          |    Demo Link     |        Code Link |
+| ----- | ---------------- | :--------------: | ---------------: |
+| 001   | Countdown        | [Countdown demo] | [Countdown code] |
+| 002   | Jokes generator  |   [Jokes demo]   |     [Jokes code] |
+| 003\* | The Grid         |                  |                  |
+| 004   | Spotify waveform | [Waveform demo]  |  [Waveform code] |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
