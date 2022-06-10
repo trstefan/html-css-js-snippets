@@ -7,9 +7,10 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | Day   | Project          |    Demo Link     |        Code Link |
 | ----- | ---------------- | :--------------: | ---------------: |
 | 001   | Countdown        | [Countdown demo] | [Countdown code] |
-| 002   | Jokes generator  |   [Jokes demo]   |     [Jokes code] |
+| 002   | Jokes generator  |   [Jokes demo]   | [Jokes code]     |
 | 003\* | The Grid         |                  |                  |
-| 004   | Spotify waveform | [Waveform demo]  |  [Waveform code] |
+| 004   | Spotify waveform | [Waveform demo]  | [Waveform code]  | 
+| 005   | Parallax design  | [Parallax demo]  | [Parallax code]  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
@@ -17,3 +18,5 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 [jokes code]: https://github.com/trstefan/ndaysofcode/tree/master/Jokes%20Generator
 [waveform demo]: https://trstefan.github.io/ndaysofcode/Spotify%20waveform/index.html
 [waveform code]: https://github.com/trstefan/ndaysofcode/tree/master/Spotify%20waveform
+[parallax demo]: https://trstefan.github.io/ndaysofcode/Parallax%20design/index.html
+[parallax code]: https://github.com/trstefan/ndaysofcode/tree/master/Parallax%20design
