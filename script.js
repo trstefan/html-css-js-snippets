@@ -3,6 +3,7 @@ const projects = [
   "Jokes Generator",
   "Spotify waveform",
   "Parallax design",
+  "Expandable Cards",
 ];
 
 const list = document.getElementById("list-projects");

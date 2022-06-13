@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #d6d5a8;
+  overflow: hidden;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.container {
+  display: flex;
+  width: 90vw;
+}
+.card {
+  background-size: auto 110%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  border-radius: 50px;
+  flex: 0.5;
+  position: relative;
+  margin: 10px;
+  transition: flex 0.7s ease-in;
+}
+
+.card h2 {
+  color: #d8e9a8;
+  font-size: 25px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  opacity: 0;
+  text-shadow: 0px 0px 20px #f0a500;
+}
+
+.card.active {
+  flex: 5;
+}
+
+.card.active h2 {
+  opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
+}
