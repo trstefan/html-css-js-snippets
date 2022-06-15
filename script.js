@@ -4,6 +4,7 @@ const projects = [
   "Spotify waveform",
   "Parallax design",
   "Expandable Cards",
+  "SocialMedia VFX",
 ];
 
 const list = document.getElementById("list-projects");

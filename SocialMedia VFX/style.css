@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: #524a4e;
+}
+.icons-list {
+  list-style: none;
+}
+
+.icons-list li {
+  display: inline-block;
+  margin: 2rem;
+  position: relative;
+  font-size: 1.2rem;
+}
+
+.icons-list i {
+  color: #fff;
+  position: absolute;
+  top: 21px;
+  left: 21px;
+  transition: all 265ms ease-out;
+}
+
+.icons-list a {
+  display: inline-block;
+}
+
+.icons-list a::before {
+  transform: scale(1);
+  content: "";
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  display: block;
+  background-color: #4158d0;
+  background-image: linear-gradient(
+    43deg,
+    #4158d0 0%,
+    #c850c0 46%,
+    #ffcc70 100%
+  );
+  transition: all 265ms ease-out;
+}
+
+.icons-list a:hover::before {
+  transform: scale(0);
+  transition: all 265ms ease-in;
+}
+
+.icons-list a:hover i {
+  transform: scale(2);
+  transition: all 265ms ease-in;
+}
+
+.icons-list li:nth-child(1) a:hover i {
+  color: #c850c0;
+}
+
+.icons-list li:nth-child(2) a:hover i {
+  color: #3ab0ff;
+}
+
+.icons-list li:nth-child(3) a:hover i {
+  color: #f9f9f9;
+}
