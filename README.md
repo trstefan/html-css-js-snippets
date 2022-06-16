@@ -11,7 +11,8 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 003\* | The Grid         |                  |                  |
 | 004   | Spotify waveform | [Waveform demo]  | [Waveform code]  | 
 | 005   | Parallax design  | [Parallax demo]  | [Parallax code]  |
-| 005   | SocialMedia VFX  |   |  |
+| 006   | SocialMedia VFX  |   |  |
+| 007   | AOS template     |   |  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown

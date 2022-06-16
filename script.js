@@ -5,6 +5,7 @@ const projects = [
   "Parallax design",
   "Expandable Cards",
   "SocialMedia VFX",
+  "AOS template",
 ];
 
 const list = document.getElementById("list-projects");
