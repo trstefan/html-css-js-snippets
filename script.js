@@ -6,6 +6,7 @@ const projects = [
   "Expandable Cards",
   "SocialMedia VFX",
   "AOS template",
+  "Card effect",
 ];
 
 const list = document.getElementById("list-projects");
