@@ -6,6 +6,7 @@ const projects = [
   "Expandable Cards",
   "SocialMedia VFX",
   "AOS template",
+  "Dots",
   "Card effect",
 ];
 

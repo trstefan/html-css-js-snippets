@@ -13,6 +13,9 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 005   | Parallax design  | [Parallax demo]  | [Parallax code]  |
 | 006   | SocialMedia VFX  |   |  |
 | 007   | AOS template     |   |  |
+| 008   | Card effect      |   |  |
+| 009   | Dots             |   |  |
+| 010   | Expandable Cards |   |  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
