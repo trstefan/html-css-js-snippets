@@ -16,6 +16,7 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 008   | Card effect      |   |  |
 | 009   | Dots             |   |  |
 | 010   | Expandable Cards |   |  |
+| 010   | Menu glow |   |  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown

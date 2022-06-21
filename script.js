@@ -8,6 +8,7 @@ const projects = [
   "AOS template",
   "Dots",
   "Card effect",
+	"Menu glow",
 ];
 
 const list = document.getElementById("list-projects");
