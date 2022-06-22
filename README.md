@@ -7,16 +7,17 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | Day   | Project          |    Demo Link     |        Code Link |
 | ----- | ---------------- | :--------------: | ---------------: |
 | 001   | Countdown        | [Countdown demo] | [Countdown code] |
-| 002   | Jokes generator  |   [Jokes demo]   | [Jokes code]     |
+| 002   | Jokes generator  |   [Jokes demo]   |     [Jokes code] |
 | 003\* | The Grid         |                  |                  |
-| 004   | Spotify waveform | [Waveform demo]  | [Waveform code]  | 
-| 005   | Parallax design  | [Parallax demo]  | [Parallax code]  |
-| 006   | SocialMedia VFX  |   |  |
-| 007   | AOS template     |   |  |
-| 008   | Card effect      |   |  |
-| 009   | Dots             |   |  |
-| 010   | Expandable Cards |   |  |
-| 010   | Menu glow |   |  |
+| 004   | Spotify waveform | [Waveform demo]  |  [Waveform code] |
+| 005   | Parallax design  | [Parallax demo]  |  [Parallax code] |
+| 006   | SocialMedia VFX  |                  |                  |
+| 007   | AOS template     |                  |                  |
+| 008   | Card effect      |                  |                  |
+| 009   | Dots             |                  |                  |
+| 010   | Expandable Cards |                  |                  |
+| 011   | Menu glow        |                  |                  |
+| 011   | Digital Clock    |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown

@@ -1,6 +1,7 @@
 const projects = [
   "Countdown",
   "Jokes Generator",
+  "Digital Clock",
   "Spotify waveform",
   "Parallax design",
   "Expandable Cards",
@@ -8,7 +9,7 @@ const projects = [
   "AOS template",
   "Dots",
   "Card effect",
-	"Menu glow",
+  "Menu glow",
 ];
 
 const list = document.getElementById("list-projects");
