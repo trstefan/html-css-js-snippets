@@ -17,7 +17,8 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 009   | Dots             |                  |                  |
 | 010   | Expandable Cards |                  |                  |
 | 011   | Menu glow        |                  |                  |
-| 011   | Digital Clock    |                  |                  |
+| 012   | Digital Clock    |                  |                  |
+| 013   | Pulse Effect     |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown

@@ -2,14 +2,15 @@ const projects = [
   "Countdown",
   "Jokes Generator",
   "Digital Clock",
-  "Spotify waveform",
-  "Parallax design",
   "Expandable Cards",
-  "SocialMedia VFX",
-  "AOS template",
-  "Dots",
-  "Card effect",
   "Menu glow",
+  "Spotify waveform",
+  "Dots",
+  "SocialMedia VFX",
+  "Pulse Effect",
+  "Card effect",
+  "Parallax design",
+  "AOS template",
 ];
 
 const list = document.getElementById("list-projects");
