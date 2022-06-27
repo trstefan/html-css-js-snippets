@@ -19,6 +19,8 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 011   | Menu glow        |                  |                  |
 | 012   | Digital Clock    |                  |                  |
 | 013   | Pulse Effect     |                  |                  |
+| 014   | Instagram Feed     |                  |                  |
+
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown

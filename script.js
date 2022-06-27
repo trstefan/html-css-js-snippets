@@ -3,6 +3,7 @@ const projects = [
   "Jokes Generator",
   "Digital Clock",
   "Expandable Cards",
+  "Instagram Feed",
   "Menu glow",
   "Spotify waveform",
   "Dots",
