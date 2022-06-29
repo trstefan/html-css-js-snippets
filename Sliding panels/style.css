@@ -1,0 +1,239 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata:400");
+@import url("https://fonts.googleapis.com/css2?family=Satisfy");
+:root {
+  --family: #fba1a1;
+  --creator: #54bab9;
+  --design: #a084cf;
+  --music: #ff9f29;
+  --fiction: #4c3a51;
+  --keyboard: #53bf9d;
+  --environment: #3ec70b;
+  --speed: #f15412;
+  --emphaty: #ff7396;
+  --hardwork: #a25b5b;
+  --geek: #f24c4c;
+  --organization: #b1bce6;
+  --christmas: #e84a5f;
+  --food: #ffc54d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  text-align: center;
+}
+h1 {
+  margin: 40px auto 15px;
+  font-size: 3rem;
+  font-weight: 800;
+  color: #403d3b;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #69564a;
+}
+
+.container {
+  width: 100%;
+  padding: 10px 15px;
+  max-width: 75rem;
+  margin: 40px auto 20px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(7, 150px);
+  grid-gap: 15px;
+}
+
+.item {
+  overflow: hidden;
+  position: relative;
+}
+.item .text {
+  display: flex;
+  position: relative;
+  z-index: 5;
+  left: 0;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 700;
+  text-transform: lowercase;
+  white-space: nowrap;
+  transition: all 1s ease;
+}
+.item .text:before {
+  content: "#";
+}
+.item .reveal-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Satisfy", serif;
+  font-size: 1.5rem;
+  color: #403d3b;
+}
+.item img {
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+.item:before {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+.item:hover .text {
+  left: -100%;
+  transition: all 1s ease;
+}
+
+.family {
+  grid-column: span 3;
+}
+.family .text {
+  background-color: var(--family);
+}
+.creator {
+  grid-column: span 3;
+}
+.creator .text {
+  background-color: var(--creator);
+}
+
+.design {
+  grid-column: span 2;
+}
+.design .text {
+  background-color: var(--design);
+}
+
+.music {
+  grid-column: span 4;
+}
+.music .text {
+  background-color: var(--music);
+}
+
+.fiction {
+  grid-column: span 1;
+  grid-row: span 2;
+}
+.fiction .text {
+  background-color: var(--fiction);
+}
+
+.keyboard {
+  grid-column: span 3;
+}
+.keyboard .text {
+  background-color: var(--keyboard);
+}
+
+.environment {
+  grid-column: span 2;
+}
+.environment .text {
+  background-color: var(--environment);
+}
+
+.speed {
+  grid-column: span 2;
+}
+.speed .text {
+  background-color: var(--speed);
+}
+
+.emphaty {
+  grid-column: span 3;
+  grid-row: span 3;
+}
+.emphaty .text {
+  background-color: var(--emphaty);
+}
+
+.hardwork {
+  grid-column: span 2;
+}
+.hardwork .text {
+  background-color: var(--hardwork);
+}
+
+.organization .text {
+  background-color: var(--geek);
+
+  font-size: 1.8rem;
+}
+
+.geek {
+  grid-column: span 3;
+}
+.geek .text {
+  background-color: var(--organization);
+}
+
+.christmas {
+  grid-column: span 4;
+}
+.christmas .text {
+  background-color: var(--christmas);
+}
+.christmas .reveal-container {
+  background: url("https://s3.envato.com/files/71858049/Christmas%20Red%20Glow%20Flakes%20Inline.jpg")
+    no-repeat;
+  background-size: cover;
+  color: white;
+  text-shadow: 1px 1px 1px #333;
+}
+
+.food {
+  grid-column: span 2;
+}
+
+.food .text {
+  background-color: var(--food);
+}
+
+/*Media queries*/
+
+@media (max-width: 900px) {
+  .container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: none;
+    grid-auto-rows: 120px;
+  }
+  .container .item {
+    grid-column: span 1;
+  }
+  .container .organization {
+    grid-row: span 2;
+  }
+}
+
+@media (max-width: 520px) {
+  .container {
+    grid-template-columns: 1fr;
+    grid-auto-rows: 90px;
+  }
+  .item .text {
+    font-size: 1.6rem;
+  }
+}

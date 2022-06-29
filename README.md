@@ -15,12 +15,13 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 007   | AOS template     |                  |                  |
 | 008   | Card effect      |                  |                  |
 | 009   | Dots             |                  |                  |
-| 010   | Expandable Cards |                  |                  |
+| 010   | Expandable cards |                  |                  |
 | 011   | Menu glow        |                  |                  |
-| 012   | Digital Clock    |                  |                  |
-| 013   | Pulse Effect     |                  |                  |
-| 014   | Instagram Feed   |                  |                  |
-| 015   | Loading Effect   |                  |                  |
+| 012   | Digital clock    |                  |                  |
+| 013   | Pulse effect     |                  |                  |
+| 014   | Instagram feed   |                  |                  |
+| 015   | Loading effect   |                  |                  |
+| 015   | Sliding panels   |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
