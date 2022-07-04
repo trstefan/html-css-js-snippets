@@ -8,6 +8,7 @@ const projects = [
   "Sliding Panels",
   "Loading effect",
   "Spotify waveform",
+  "Dots Loading",
   "Dots",
   "SocialMedia VFX",
   "Pulse Effect",

@@ -21,7 +21,8 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 013   | Pulse effect     |                  |                  |
 | 014   | Instagram feed   |                  |                  |
 | 015   | Loading effect   |                  |                  |
-| 015   | Sliding panels   |                  |                  |
+| 016   | Sliding panels   |                  |                  |
+| 017   | Dots Loading     |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
