@@ -23,6 +23,7 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 015   | Loading effect   |                  |                  |
 | 016   | Sliding panels   |                  |                  |
 | 017   | Dots Loading     |                  |                  |
+| 018   | Hello World      |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
