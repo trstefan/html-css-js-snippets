@@ -10,6 +10,7 @@ const projects = [
   "Spotify waveform",
   "Dots Loading",
   "Dots",
+"Hello World",
   "SocialMedia VFX",
   "Pulse Effect",
   "Card effect",
