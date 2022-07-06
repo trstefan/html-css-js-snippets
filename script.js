@@ -13,6 +13,7 @@ const projects = [
   "Hello World",
   "SocialMedia VFX",
   "Pulse Effect",
+  "OneDiv loader",
   "Card effect",
   "Parallax design",
   "AOS template",
