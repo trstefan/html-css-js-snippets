@@ -15,6 +15,7 @@ const projects = [
   "Pulse Effect",
   "OneDiv loader",
   "Card effect",
+  "404Template page",
   "Parallax design",
   "AOS template",
 ];
