@@ -18,6 +18,7 @@ const projects = [
   "404Template page",
   "Parallax design",
   "AOS template",
+  "GoogleAPI fonts",
 ];
 
 const list = document.getElementById("list-projects");

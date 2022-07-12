@@ -4,28 +4,28 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 
 # Projects list
 
-| Day   | Project          |    Demo Link     |        Code Link |
-| ----- | ---------------- | :--------------: | ---------------: |
-| 001   | Countdown        | [Countdown demo] | [Countdown code] |
-| 002   | Jokes generator  |   [Jokes demo]   |     [Jokes code] |
-| 003\* | The Grid         |                  |                  |
-| 004   | Spotify waveform | [Waveform demo]  |  [Waveform code] |
-| 005   | Parallax design  | [Parallax demo]  |  [Parallax code] |
-| 006   | SocialMedia VFX  |                  |                  |
-| 007   | AOS template     |                  |                  |
-| 008   | Card effect      |                  |                  |
-| 009   | Dots             |                  |                  |
-| 010   | Expandable cards |                  |                  |
-| 011   | Menu glow        |                  |                  |
-| 012   | Digital clock    |                  |                  |
-| 013   | Pulse effect     |                  |                  |
-| 014   | Instagram feed   |                  |                  |
-| 015   | Loading effect   |                  |                  |
-| 016   | Sliding panels   |                  |                  |
-| 017   | Dots Loading     |                  |                  |
-| 018   | Hello World      |                  |                  |
-| 019   | One div loader   |                  |                  |
-| 020   | Template Page    |                  |                  |
+| Day | Project          |    Demo Link     |        Code Link |
+| --- | ---------------- | :--------------: | ---------------: |
+| 001 | Countdown        | [Countdown demo] | [Countdown code] |
+| 002 | Jokes generator  |   [Jokes demo]   |     [Jokes code] |
+| 003 | Spotify waveform | [Waveform demo]  |  [Waveform code] |
+| 004 | Parallax design  | [Parallax demo]  |  [Parallax code] |
+| 005 | SocialMedia VFX  |                  |                  |
+| 006 | AOS template     |                  |                  |
+| 007 | Card effect      |                  |                  |
+| 008 | Dots             |                  |                  |
+| 009 | Expandable cards |                  |                  |
+| 010 | Menu glow        |                  |                  |
+| 011 | Digital clock    |                  |                  |
+| 012 | Pulse effect     |                  |                  |
+| 013 | Instagram feed   |                  |                  |
+| 014 | Loading effect   |                  |                  |
+| 015 | Sliding panels   |                  |                  |
+| 016 | Dots Loading     |                  |                  |
+| 017 | Hello World      |                  |                  |
+| 018 | One div loader   |                  |                  |
+| 019 | Template Page    |                  |                  |
+| 020 | GoogleAPI fonts  |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
