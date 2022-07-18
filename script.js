@@ -12,6 +12,7 @@ const projects = [
   "Dots",
   "Hello World",
   "Hover Effect",
+  "Hover Effect2",
   "SocialMedia VFX",
   "Pulse Effect",
   "OneDiv loader",
