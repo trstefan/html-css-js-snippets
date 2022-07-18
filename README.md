@@ -4,29 +4,30 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 
 # Projects list
 
-| Day | Project                |    Demo Link     |        Code Link |
-| --- | ---------------------- | :--------------: | ---------------: |
-| 001 | Countdown              | [Countdown demo] | [Countdown code] |
-| 002 | Jokes generator        |   [Jokes demo]   |     [Jokes code] |
-| 003 | Spotify waveform       | [Waveform demo]  |  [Waveform code] |
-| 004 | Parallax design        | [Parallax demo]  |  [Parallax code] |
-| 005 | SocialMedia VFX        |                  |                  |
-| 006 | AOS template           |                  |                  |
-| 007 | Card effect            |                  |                  |
-| 008 | Dots                   |                  |                  |
-| 009 | Expandable cards       |                  |                  |
-| 010 | Menu glow              |                  |                  |
-| 011 | Digital clock          |                  |                  |
-| 012 | Pulse effect           |                  |                  |
-| 013 | Instagram feed         |                  |                  |
-| 014 | Loading effect         |                  |                  |
-| 015 | Sliding panels         |                  |                  |
-| 016 | Dots Loading           |                  |                  |
-| 017 | Hello World            |                  |                  |
-| 018 | One div loader         |                  |                  |
-| 019 | Template Page          |                  |                  |
-| 020 | GoogleAPI fonts        |                  |                  |
-| 021 | Hover Effect animation |                  |                  |
+| Day | Project                 |    Demo Link     |        Code Link |
+| --- | ----------------------- | :--------------: | ---------------: |
+| 001 | Countdown               | [Countdown demo] | [Countdown code] |
+| 002 | Jokes generator         |   [Jokes demo]   |     [Jokes code] |
+| 003 | Spotify waveform        | [Waveform demo]  |  [Waveform code] |
+| 004 | Parallax design         | [Parallax demo]  |  [Parallax code] |
+| 005 | SocialMedia VFX         |                  |                  |
+| 006 | AOS template            |                  |                  |
+| 007 | Card effect             |                  |                  |
+| 008 | Dots                    |                  |                  |
+| 009 | Expandable cards        |                  |                  |
+| 010 | Menu glow               |                  |                  |
+| 011 | Digital clock           |                  |                  |
+| 012 | Pulse effect            |                  |                  |
+| 013 | Instagram feed          |                  |                  |
+| 014 | Loading effect          |                  |                  |
+| 015 | Sliding panels          |                  |                  |
+| 016 | Dots Loading            |                  |                  |
+| 017 | Hello World             |                  |                  |
+| 018 | One div loader          |                  |                  |
+| 019 | Template Page           |                  |                  |
+| 020 | GoogleAPI fonts         |                  |                  |
+| 021 | Hover Effect animation  |                  |                  |
+| 022 | Hover Effect2 animation |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
