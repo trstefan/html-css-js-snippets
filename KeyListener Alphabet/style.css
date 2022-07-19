@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Mansalva&display=swap");
+:root {
+  --bg-colour: #fee2c5;
+  --font-colour1: #b83b5e;
+  --font-colour2: #f08a5d;
+  --font-colour3: #6a2c70;
+  --font-colour4: #019267;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+body {
+  background-color: var(--bg-colour);
+  color: var(--font-colour4);
+  text-align: center;
+}
+
+.subheading {
+  margin-top: 1rem;
+  font-family: "Mansalva", cursive;
+  font-size: 20px;
+  color: black;
+}
+h1 {
+  margin-top: 2rem;
+
+  font-family: "Cormorant", sans-serif;
+}
+#alphabet {
+  margin-top: 4rem;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.block {
+  margin: 0.5em;
+  width: 100px;
+  height: 100px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.block:nth-child(2n) .letter {
+  color: var(--font-colour1);
+}
+
+.block:nth-child(3n) .letter {
+  color: var(--font-colour2);
+}
+.block:nth-child(5n) .letter {
+  color: var(--font-colour3);
+}
+.block:nth-child(7n) .letter {
+  color: var(--font-colour4);
+}
+.letter {
+  font-family: "Mansalva", cursive;
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.selectedLetter {
+  background-color: #b2a4ff;
+  border-radius: 50%;
+}
