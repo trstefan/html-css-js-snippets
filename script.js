@@ -6,6 +6,7 @@ const projects = [
   "Keyboard",
   "Expandable Cards",
   "Instagram Feed",
+  "Split Landingpage",
   "Menu glow",
   "Sliding panels",
   "Loading effect",
