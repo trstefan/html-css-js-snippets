@@ -32,6 +32,7 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 023 | Virtual Keyboard        |                  |                  |
 | 024 | Split Landing Page      |                  |                  |
 | 025 | 3 Buttons               |                  |                  |
+| 026 | Hover Grid              |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
