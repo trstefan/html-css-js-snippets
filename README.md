@@ -28,11 +28,12 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 020 | GoogleAPI fonts         |                  |                  |
 | 021 | Hover Effect animation  |                  |                  |
 | 022 | Hover Effect2 animation |                  |                  |
-| 022 | KeyListener Alphabet    |                  |                  |
-| 023 | Virtual Keyboard        |                  |                  |
-| 024 | Split Landing Page      |                  |                  |
-| 025 | 3 Buttons               |                  |                  |
-| 026 | Hover Grid              |                  |                  |
+| 023 | KeyListener Alphabet    |                  |                  |
+| 024 | Virtual Keyboard        |                  |                  |
+| 025 | Split Landing Page      |                  |                  |
+| 026 | 3 Buttons               |                  |                  |
+| 027 | Hover Grid              |                  |                  |
+| 028 | FAQ List                |                  |                  |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
