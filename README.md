@@ -17,7 +17,7 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 009 |    Expandable cards     |                [cards demo] |                [cards code] |
 | 010 |        Menu glow        |            [menu glow demo] |            [menu glow code] |
 | 011 |      Digital clock      |                [clock demo] |                [clock code] |
-| 012 |      Pulse effect       |         [pulse effect demo] |                  [faq code] |
+| 012 |      Pulse effect       |         [pulse effect demo] |         [pulse effect code] |
 | 013 |     Instagram feed      |       [instagram feed demo] |       [instagram feed code] |
 | 014 |     Loading effect      |       [loading effect demo] |       [loading effect code] |
 | 015 |     Sliding panels      |       [sliding panels demo] |       [sliding panels code] |
