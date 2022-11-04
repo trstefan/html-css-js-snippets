@@ -5,8 +5,13 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 ### Demo
 
 Here is a working live demo : [_https://trstefan.github.io/ndaysofcode/_](https://trstefan.github.io/ndaysofcode/)
+### Screenshots
+#### Tracker 
+![Alternate image text](https://i.ibb.co/QdBw1y9/nDays.png)
+#### Single project 
+![Alternate image text](https://i.ibb.co/mDkPTWw/n-Days-Single.png)
 
-# Projects list
+### Projects list
 
 | Day |         Project         |                   Demo Link |                   Code Link |
 | --- | :---------------------: | --------------------------: | --------------------------: |
