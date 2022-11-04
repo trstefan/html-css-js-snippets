@@ -11,7 +11,7 @@ _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's m
 | 003 |    Spotify waveform     |             [Waveform demo] |             [Waveform code] |
 | 004 |     Parallax design     |             [Parallax demo] |             [Parallax code] |
 | 005 |     SocialMedia VFX     |     [ SocialMedia VFX demo] |    [ SocialMedia VFX code]: |
-| 006 |      AOS template       |         [AOS template demo] |         [AOS templade code] |
+| 006 |      AOS template       |         [AOS template demo] |         [AOS template code] |
 | 007 |       Card effect       |          [card effect demo] |          [card effect code] |
 | 008 |          Dots           |                 [dots demo] |                 [dots code] |
 | 009 |    Expandable cards     |                [cards demo] |                [cards code] |
