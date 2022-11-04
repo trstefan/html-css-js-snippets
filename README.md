@@ -2,6 +2,10 @@
 
 _n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's meant to help me improve my coding skills by creating projects (a project could be: an app, a component, a website, a game, a library, etc)
 
+### Demo
+
+Here is a working live demo : [_https://trstefan.github.io/ndaysofcode/_](https://trstefan.github.io/ndaysofcode/)
+
 # Projects list
 
 | Day |         Project         |                   Demo Link |                   Code Link |
