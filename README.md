@@ -1,17 +1,21 @@
-# Purpose
+# n Days of Code 
+## :link:	Live Demo 
 
-_n Days of Code_ it's a challenge (similar to #100DaysOfCode challenge) that's meant to help me improve my coding skills by creating projects (a project could be: an app, a component, a website, a game, a library, etc)
+[Demo Link](https://trstefan.github.io/ndaysofcode)
 
-### Demo
+## 📷 Screenshot
 
-Here is a working live demo : [_https://trstefan.github.io/ndaysofcode/_](https://trstefan.github.io/ndaysofcode/)
-### Screenshots
-#### Tracker 
-![Alternate image text](https://i.ibb.co/QdBw1y9/nDays.png)
-#### Single project 
-![Alternate image text](https://i.ibb.co/mDkPTWw/n-Days-Single.png)
+## 📝 Project Description
 
-### Projects list
+*n Days of Code* it's a challenge (similar to #100DaysOfCode challenge) that's meant to help me improve my coding skills by creating projects (a project could be: an app, a component, a website, a game, a library, etc).
+
+## 📚 Technologies
+
+- HTML
+- CSS
+- Javascript
+
+## 📜 Projects list
 
 | Day |         Project         |                   Demo Link |                   Code Link |
 | --- | :---------------------: | --------------------------: | --------------------------: |
