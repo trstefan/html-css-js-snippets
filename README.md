@@ -59,8 +59,8 @@
 |        3 Buttons        |            [3 buttons demo] |            [3 buttons code] |
 |       Hover Grid        |           [Hover grid demo] |           [Hover grid code] |
 |        FAQ List         |                  [Faq demo] |                  [Faq code] |
-|          Drums          |                [Drums demo] |               [Drumos code] |
-|     Catch me Button     |            [Catchme button] |       [Catchme button code] |
+|          Drums          |                [Drums demo] |                [Drums code] |
+|     Catch me Button     |       [Catchme button demo] |       [Catchme button code] |
 |         OddEven         |              [OddEven demo] |              [OddEven code] |
 
 [countdown demo]: https://trstefan.github.io/html-css-js-snippets/Countdown/index.html
