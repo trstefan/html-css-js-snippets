@@ -1,0 +1,138 @@
+:root {
+  --odd: #ef476f;
+  --even: #f78c6b;
+  --fizz: #ffd166;
+  --buzz: #06d6a0;
+  --fizzbuzz: #118ab2;
+  --nonfizzbuzz: #a1c349;
+  --text-colour: #f8edeb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --tw-bg-opacity: 1;
+  background-color: hsl(223 30% 9% / var(--tw-bg-opacity));
+}
+
+.mapping {
+  padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.mapping h2,
+.colour__item h3 {
+  color: var(--text-colour);
+}
+
+.colour__item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.box__item {
+  width: 20px;
+  height: 20px;
+}
+
+.even__box {
+  background-color: var(--even);
+}
+.odd__box {
+  background-color: var(--odd);
+}
+.fizz__box {
+  background-color: var(--fizz);
+}
+.buzz__box {
+  background-color: var(--buzz);
+}
+.fizzbuzz__box {
+  background-color: var(--fizzbuzz);
+}
+.nonfizzbuzz__box {
+  background-color: var(--nonfizzbuzz);
+}
+.grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(6rem, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 1rem;
+  padding: 1rem 2rem;
+}
+.grid::before {
+  content: "";
+  width: 0;
+  padding-bottom: 100%;
+  grid-row: 1/1;
+  grid-column: 1/1;
+}
+
+.grid > *:first-child {
+  grid-row: 1/1;
+  grid-column: 1/1;
+}
+.grid__item {
+  position: relative;
+}
+.grid__item::before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+  content: attr(data-index);
+  display: block;
+  padding: 0.6rem;
+  border-radius: 50%;
+
+  color: #999;
+  background-color: #fff;
+}
+
+.even,
+.odd,
+.fizz,
+.buzz,
+.fizzbuzz,
+.nonfizzbuzz {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.even {
+  background-color: var(--even);
+  clip-path: polygon(0 0, 0% 100%, 100% 0);
+}
+
+.odd {
+  background-color: var(--odd);
+  clip-path: polygon(0 0, 0% 100%, 100% 0);
+}
+
+.fizz {
+  background-color: var(--fizz);
+  clip-path: polygon(100% 100%, 0% 100%, 100% 0);
+}
+
+.buzz {
+  background-color: var(--buzz);
+  clip-path: polygon(100% 100%, 0% 100%, 100% 0);
+}
+
+.fizzbuzz {
+  background-color: var(--fizzbuzz);
+  clip-path: polygon(100% 100%, 0% 100%, 100% 0);
+}
+
+.nonfizzbuzz {
+  background-color: var(--nonfizzbuzz);
+  clip-path: polygon(100% 100%, 0% 100%, 100% 0);
+}

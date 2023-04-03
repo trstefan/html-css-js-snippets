@@ -1,11 +1,25 @@
 # n Days of Code 
 ## :link:	Live Demo 
 
+<<<<<<< HEAD
 [Demo Link](https://trstefan.github.io/ndaysofcode)
 
 ## 📷 Screenshot
 
 ## 📝 Project Description
+=======
+### Demo
+
+### Screenshots
+
+#### Tracker
+
+![Alternate image text](https://i.ibb.co/QdBw1y9/nDays.png)
+
+#### Single project
+
+![Alternate image text](https://i.ibb.co/mDkPTWw/n-Days-Single.png)
+>>>>>>> 6cc87a1 (added new projects)
 
 *n Days of Code* it's a challenge (similar to #100DaysOfCode challenge) that's meant to help me improve my coding skills by creating projects (a project could be: an app, a component, a website, a game, a library, etc).
 
@@ -17,36 +31,39 @@
 
 ## 📜 Projects list
 
-| Day |         Project         |                   Demo Link |                   Code Link |
-| --- | :---------------------: | --------------------------: | --------------------------: |
-| 001 |        Countdown        |            [Countdown demo] |            [Countdown code] |
-| 002 |     Jokes generator     |                [Jokes demo] |                [Jokes code] |
-| 003 |    Spotify waveform     |             [Waveform demo] |             [Waveform code] |
-| 004 |     Parallax design     |             [Parallax demo] |             [Parallax code] |
-| 005 |     SocialMedia VFX     |     [ SocialMedia VFX demo] |    [ SocialMedia VFX code]: |
-| 006 |      AOS template       |         [AOS template demo] |         [AOS template code] |
-| 007 |       Card effect       |          [card effect demo] |          [card effect code] |
-| 008 |          Dots           |                 [dots demo] |                 [dots code] |
-| 009 |    Expandable cards     |                [cards demo] |                [cards code] |
-| 010 |        Menu glow        |            [menu glow demo] |            [menu glow code] |
-| 011 |      Digital clock      |                [clock demo] |                [clock code] |
-| 012 |      Pulse effect       |         [pulse effect demo] |         [pulse effect code] |
-| 013 |     Instagram feed      |       [instagram feed demo] |       [instagram feed code] |
-| 014 |     Loading effect      |       [loading effect demo] |       [loading effect code] |
-| 015 |     Sliding panels      |       [sliding panels demo] |       [sliding panels code] |
-| 016 |      Dots Loading       |         [dots loading demo] |         [dots loading code] |
-| 017 |       Hello World       |          [hello world demo] |          [hello world code] |
-| 018 |     One div loader      |       [one div loader demo] |       [one div loader code] |
-| 019 |      Template Page      |        [template page demo] |        [template page code] |
-| 020 |     GoogleAPI fonts     |         [google fonts demo] |         [google fonts code] |
-| 021 | Hover Effect animation  |         [hover effect demo] |         [hover effect code] |
-| 022 | Hover Effect2 animation |        [hover effect2 demo] |        [hover effect2 code] |
-| 023 |  KeyListener Alphabet   | [keyListener alphabet demo] | [keyListener alphabet code] |
-| 024 |    Virtual Keyboard     |     [virtual keyboard demo] |     [virtual keyboard code] |
-| 025 |   Split Landing Page    |   [split landing page demo] |   [split landing page code] |
-| 026 |        3 Buttons        |            [3 buttons demo] |            [3 buttons code] |
-| 027 |       Hover Grid        |           [hover grid demo] |           [hover grid code] |
-| 028 |        FAQ List         |                  [faq demo] |                  [faq code] |
+|         Project         |                   Demo Link |                   Code Link |
+| :---------------------: | --------------------------: | --------------------------: |
+|        Countdown        |            [Countdown demo] |            [Countdown code] |
+|     Jokes generator     |                [Jokes demo] |                [Jokes code] |
+|    Spotify waveform     |             [Waveform demo] |             [Waveform code] |
+|     Parallax design     |             [Parallax demo] |             [Parallax code] |
+|     SocialMedia VFX     |     [ SocialMedia VFX demo] |    [ SocialMedia VFX code]: |
+|      AOS template       |         [AOS template demo] |         [AOS template code] |
+|       Card effect       |          [Card effect demo] |          [Card effect code] |
+|          Dots           |                 [Dots demo] |                 [Dots code] |
+|    Expandable cards     |                [Cards demo] |                [Cards code] |
+|        Menu glow        |            [Menu glow demo] |            [Menu glow code] |
+|      Digital clock      |                [Clock demo] |                [Clock code] |
+|      Pulse effect       |         [Pulse effect demo] |         [Pulse effect code] |
+|     Instagram feed      |       [Instagram feed demo] |       [Instagram feed code] |
+|     Loading effect      |       [Loading effect demo] |       [Loading effect code] |
+|     Sliding panels      |       [Sliding panels demo] |       [Sliding panels code] |
+|      Dots Loading       |         [Dots loading demo] |         [Dots loading code] |
+|       Hello World       |          [Hello world demo] |          [Hello world code] |
+|     One div loader      |       [One div loader demo] |       [One div loader code] |
+|      Template Page      |    [404 template page demo] |    [404 template page code] |
+|     GoogleAPI fonts     |         [Google fonts demo] |         [Google fonts code] |
+| Hover Effect animation  |         [Hover effect demo] |         [Hover effect code] |
+| Hover Effect2 animation |        [Hover effect2 demo] |        [Hover effect2 code] |
+|  KeyListener Alphabet   | [KeyListener alphabet demo] | [KeyListener alphabet code] |
+|    Virtual Keyboard     |     [Virtual keyboard demo] |     [Virtual keyboard code] |
+|   Split Landing Page    |   [Split landing page demo] |   [Split landing page code] |
+|        3 Buttons        |            [3 buttons demo] |            [3 buttons code] |
+|       Hover Grid        |           [Hover grid demo] |           [Hover grid code] |
+|        FAQ List         |                  [Faq demo] |                  [Faq code] |
+|          Drums          |            [3 buttons demo] |            [3 buttons code] |
+|     Catch me Button     |           [Hover grid demo] |           [Hover grid code] |
+|         OddEven         |                  [Faq demo] |                  [Faq code] |
 
 [countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
 [countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
@@ -74,8 +91,8 @@
 [hover effect code]: https://github.com/trstefan/ndaysofcode/tree/master/Hover%20Effect
 [ google fonts demo]: https://trstefan.github.io/ndaysofcode/GoogleAPI%20fonts/index.html
 [ google fonts code]: https://github.com/trstefan/ndaysofcode/tree/master/GoogleAPI%20fonts
-[ template page demo]: https://trstefan.github.io/ndaysofcode/404Template%20page/index.html
-[ template page code]: https://github.com/trstefan/ndaysofcode/tree/master/404Template%20page
+[404 template page demo]: https://trstefan.github.io/ndaysofcode/404Template%20page/index.html
+[404 template page code]: https://github.com/trstefan/ndaysofcode/tree/master/404Template%20page
 [ one div loader demo]: https://trstefan.github.io/ndaysofcode/OneDiv%20loader/index.html
 [ one div loader code]: https://github.com/trstefan/ndaysofcode/tree/master/OneDiv%20loader
 [ hello world demo]: https://trstefan.github.io/ndaysofcode/Hello%20World/index.html
