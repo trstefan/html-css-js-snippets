@@ -1,13 +1,14 @@
-# n Days of Code 
-## :link:	Live Demo 
+# html-css-js snippets
+
+## :link: Live Demo
 
 <<<<<<< HEAD
-[Demo Link](https://trstefan.github.io/ndaysofcode)
+[Demo Link](https://trstefan.github.io/html-css-js-snippets)
 
 ## 📷 Screenshot
 
 ## 📝 Project Description
-=======
+
 ### Demo
 
 ### Screenshots
@@ -19,9 +20,6 @@
 #### Single project
 
 ![Alternate image text](https://i.ibb.co/mDkPTWw/n-Days-Single.png)
->>>>>>> 6cc87a1 (added new projects)
-
-*n Days of Code* it's a challenge (similar to #100DaysOfCode challenge) that's meant to help me improve my coding skills by creating projects (a project could be: an app, a component, a website, a game, a library, etc).
 
 ## 📚 Technologies
 
@@ -65,59 +63,65 @@
 |     Catch me Button     |           [Hover grid demo] |           [Hover grid code] |
 |         OddEven         |                  [Faq demo] |                  [Faq code] |
 
-[countdown demo]: https://trstefan.github.io/ndaysofcode/Countdown/index.html
-[countdown code]: https://github.com/trstefan/ndaysofcode/tree/master/Countdown
-[jokes demo]: https://trstefan.github.io/ndaysofcode/Jokes%20Generator/index.html
-[jokes code]: https://github.com/trstefan/ndaysofcode/tree/master/Jokes%20Generator
-[waveform demo]: https://trstefan.github.io/ndaysofcode/Spotify%20waveform/index.html
-[waveform code]: https://github.com/trstefan/ndaysofcode/tree/master/Spotify%20waveform
-[parallax demo]: https://trstefan.github.io/ndaysofcode/Parallax%20design/index.html
-[parallax code]: https://github.com/trstefan/ndaysofcode/tree/master/Parallax%20design
-[faq demo]: https://trstefan.github.io/ndaysofcode/FAQ/index.html
-[faq code]: https://github.com/trstefan/ndaysofcode/tree/master/FAQ
-[hover grid demo]: https://trstefan.github.io/ndaysofcode/Hover%20Grid/index.html
-[hover grid code]: https://github.com/trstefan/ndaysofcode/tree/master/Hover%20Grid
-[3 buttons demo]: https://trstefan.github.io/ndaysofcode/3%20Buttons/index.html
-[3 buttons code]: https://github.com/trstefan/ndaysofcode/tree/master/3%20Buttons
-[split landing page demo]: https://trstefan.github.io/ndaysofcode/Split%20Landingpage/index.html
-[split landing page code]: https://github.com/trstefan/ndaysofcode/tree/master/Split%20Landingpage
-[virtual keyboard demo]: https://trstefan.github.io/ndaysofcode/Keyboard/index.html
-[virtual keyboard code]: https://github.com/trstefan/ndaysofcode/tree/master/Keyboard
-[keylistener alphabet demo]: https://trstefan.github.io/ndaysofcode/KeyListener%20Alphabet/index.html
-[keylistener alphabet code]: https://github.com/trstefan/ndaysofcode/tree/master/KeyListener%20Alphabet
-[hover effect2 demo]: https://trstefan.github.io/ndaysofcode/Hover%20Effect2/index.html
-[hover effect2 code]: https://github.com/trstefan/ndaysofcode/tree/master/Hover%20Effect2
-[hover effect demo]: https://trstefan.github.io/ndaysofcode/Hover%20Effect/index.html
-[hover effect code]: https://github.com/trstefan/ndaysofcode/tree/master/Hover%20Effect
-[ google fonts demo]: https://trstefan.github.io/ndaysofcode/GoogleAPI%20fonts/index.html
-[ google fonts code]: https://github.com/trstefan/ndaysofcode/tree/master/GoogleAPI%20fonts
-[404 template page demo]: https://trstefan.github.io/ndaysofcode/404Template%20page/index.html
-[404 template page code]: https://github.com/trstefan/ndaysofcode/tree/master/404Template%20page
-[ one div loader demo]: https://trstefan.github.io/ndaysofcode/OneDiv%20loader/index.html
-[ one div loader code]: https://github.com/trstefan/ndaysofcode/tree/master/OneDiv%20loader
-[ hello world demo]: https://trstefan.github.io/ndaysofcode/Hello%20World/index.html
-[ hello world code]: https://github.com/trstefan/ndaysofcode/tree/master/Hello%20World
-[ dots loading demo]: https://trstefan.github.io/ndaysofcode/Dots%20Loading/index.html
-[ dots loading code]: https://github.com/trstefan/ndaysofcode/tree/master/Dots%20Loading
-[ sliding panels demo]: https://trstefan.github.io/ndaysofcode/Sliding%20panels/index.html
-[ sliding panels code]: https://github.com/trstefan/ndaysofcode/tree/master/Sliding%20panels
-[ loading effect demo]: https://trstefan.github.io/ndaysofcode/Loading%20effect/index.html
-[ loading effect code]: https://github.com/trstefan/ndaysofcode/tree/master/Loading%20effect
-[instagram feed demo]: https://trstefan.github.io/ndaysofcode/Instagram%20Feed/index.html
-[instagram feed code]: https://github.com/trstefan/ndaysofcode/tree/master/Instagram%20Feed
-[ pulse effect demo]: https://trstefan.github.io/ndaysofcode/Pulse%20Effect/index.html
-[ pulse effect code]: https://github.com/trstefan/ndaysofcode/tree/master/Pulse%20Effect
-[ clock demo]: https://trstefan.github.io/ndaysofcode/Digital%20Clock/index.html
-[ clock code]: https://github.com/trstefan/ndaysofcode/tree/master/Digital%20Clock
-[ menu glow demo]: https://trstefan.github.io/ndaysofcode/Menu%20glow/index.html
-[ menu glow code]: https://github.com/trstefan/ndaysofcode/tree/master/Menu%20glow
-[ cards demo]: https://trstefan.github.io/ndaysofcode/Expandable%20Cards/index.html
-[ cards code]: https://github.com/trstefan/ndaysofcode/tree/master/Expandable%20Cards
-[ dots demo]: https://trstefan.github.io/ndaysofcode/Dots/index.html
-[ dots code]: https://github.com/trstefan/ndaysofcode/tree/master/Dots
-[ card effect demo]: https://trstefan.github.io/ndaysofcode/Card%20effect/index.html
-[ card effect code]: https://github.com/trstefan/ndaysofcode/tree/master/Card%20effect
-[ aos template demo]: https://trstefan.github.io/ndaysofcode/AOS%20template/index.html
-[ aos template code]: https://github.com/trstefan/ndaysofcode/tree/master/AOS%20template
-[ socialmedia vfx demo]: https://trstefan.github.io/ndaysofcode/SocialMedia%20VFX/index.html
-[ socialmedia vfx code]: https://github.com/trstefan/ndaysofcode/tree/master/SocialMedia%20VFX
+[countdown demo]: https://trstefan.github.io/html-css-js-snippets/Countdown/index.html
+[countdown code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Countdown
+[jokes demo]: https://trstefan.github.io/html-css-js-snippets/Jokes%20Generator/index.html
+[jokes code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Jokes%20Generator
+[waveform demo]: https://trstefan.github.io/html-css-js-snippets/Spotify%20waveform/index.html
+[waveform code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Spotify%20waveform
+[parallax demo]: https://trstefan.github.io/html-css-js-snippets/Parallax%20design/index.html
+[parallax code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Parallax%20design
+[faq demo]: https://trstefan.github.io/html-css-js-snippets/FAQ/index.html
+[faq code]: https://github.com/trstefan/html-css-js-snippets/tree/master/FAQ
+[hover grid demo]: https://trstefan.github.io/html-css-js-snippets/Hover%20Grid/index.html
+[hover grid code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Hover%20Grid
+[3 buttons demo]: https://trstefan.github.io/html-css-js-snippets/3%20Buttons/index.html
+[3 buttons code]: https://github.com/trstefan/html-css-js-snippets/tree/master/3%20Buttons
+[split landing page demo]: https://trstefan.github.io/html-css-js-snippets/Split%20Landingpage/index.html
+[split landing page code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Split%20Landingpage
+[virtual keyboard demo]: https://trstefan.github.io/html-css-js-snippets/Keyboard/index.html
+[virtual keyboard code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Keyboard
+[keylistener alphabet demo]: https://trstefan.github.io/html-css-js-snippets/KeyListener%20Alphabet/index.html
+[keylistener alphabet code]: https://github.com/trstefan/html-css-js-snippets/tree/master/KeyListener%20Alphabet
+[hover effect2 demo]: https://trstefan.github.io/html-css-js-snippets/Hover%20Effect2/index.html
+[hover effect2 code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Hover%20Effect2
+[hover effect demo]: https://trstefan.github.io/html-css-js-snippets/Hover%20Effect/index.html
+[hover effect code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Hover%20Effect
+[ google fonts demo]: https://trstefan.github.io/html-css-js-snippets/GoogleAPI%20fonts/index.html
+[ google fonts code]: https://github.com/trstefan/html-css-js-snippets/tree/master/GoogleAPI%20fonts
+[404 template page demo]: https://trstefan.github.io/html-css-js-snippets/404Template%20page/index.html
+[404 template page code]: https://github.com/trstefan/html-css-js-snippets/tree/master/404Template%20page
+[ one div loader demo]: https://trstefan.github.io/html-css-js-snippets/OneDiv%20loader/index.html
+[ one div loader code]: https://github.com/trstefan/html-css-js-snippets/tree/master/OneDiv%20loader
+[ hello world demo]: https://trstefan.github.io/html-css-js-snippets/Hello%20World/index.html
+[ hello world code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Hello%20World
+[ dots loading demo]: https://trstefan.github.io/html-css-js-snippets/Dots%20Loading/index.html
+[ dots loading code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Dots%20Loading
+[ sliding panels demo]: https://trstefan.github.io/html-css-js-snippets/Sliding%20panels/index.html
+[ sliding panels code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Sliding%20panels
+[ loading effect demo]: https://trstefan.github.io/html-css-js-snippets/Loading%20effect/index.html
+[ loading effect code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Loading%20effect
+[instagram feed demo]: https://trstefan.github.io/html-css-js-snippets/Instagram%20Feed/index.html
+[instagram feed code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Instagram%20Feed
+[ pulse effect demo]: https://trstefan.github.io/html-css-js-snippets/Pulse%20Effect/index.html
+[ pulse effect code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Pulse%20Effect
+[ clock demo]: https://trstefan.github.io/html-css-js-snippets/Digital%20Clock/index.html
+[ clock code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Digital%20Clock
+[ menu glow demo]: https://trstefan.github.io/html-css-js-snippets/Menu%20glow/index.html
+[ menu glow code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Menu%20glow
+[ cards demo]: https://trstefan.github.io/html-css-js-snippets/Expandable%20Cards/index.html
+[ cards code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Expandable%20Cards
+[ dots demo]: https://trstefan.github.io/html-css-js-snippets/Dots/index.html
+[ dots code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Dots
+[ card effect demo]: https://trstefan.github.io/html-css-js-snippets/Card%20effect/index.html
+[ card effect code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Card%20effect
+[ aos template demo]: https://trstefan.github.io/html-css-js-snippets/AOS%20template/index.html
+[ aos template code]: https://github.com/trstefan/html-css-js-snippets/tree/master/AOS%20template
+[ socialmedia vfx demo]: https://trstefan.github.io/html-css-js-snippets/SocialMedia%20VFX/index.html
+[ socialmedia vfx code]: https://github.com/trstefan/html-css-js-snippets/tree/master/SocialMedia%20VFX
+[ drums demo]: https://trstefan.github.io/html-css-js-snippets/Drums/index.html
+[ drums code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Drums
+[ oddeven demo]: https://trstefan.github.io/html-css-js-snippets/OddEven/index.html
+[ oddeven code]: https://github.com/trstefan/html-css-js-snippets/tree/master/OddEven
+[ catchme button demo]: https://trstefan.github.io/html-css-js-snippets/Catch%20me%20Button/index.html
+[ catchme button code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Catch%20me%20Button
