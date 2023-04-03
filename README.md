@@ -60,7 +60,7 @@
 |       Hover Grid        |           [Hover grid demo] |           [Hover grid code] |
 |        FAQ List         |                  [Faq demo] |                  [Faq code] |
 |          Drums          |                [Drums demo] |               [Drumos code] |
-|     Catch me Button     |           [Catch me button] |       [Catchme button code] |
+|     Catch me Button     |            [Catchme button] |       [Catchme button code] |
 |         OddEven         |              [OddEven demo] |              [OddEven code] |
 
 [countdown demo]: https://trstefan.github.io/html-css-js-snippets/Countdown/index.html
