@@ -2,6 +2,7 @@ const projects = [
   "Countdown",
   "Hover Grid",
   "Drums",
+  "Anime Quotes Generator",
   "Catch me Button",
   "OddEven",
   "Jokes Generator",

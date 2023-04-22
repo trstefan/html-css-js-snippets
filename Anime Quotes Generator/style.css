@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Eczar&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  font-family: "Eczar", serif;
+  background: linear-gradient(
+    45deg,
+    #f17c58,
+    #e94584,
+    #24aadb,
+    #27dbb1,
+    #ffdc18,
+    #ff3706
+  );
+  animation: gradient 16s linear infinite;
+  animation-direction: alternate;
+  background-size: 600% 100%;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+
+#quote__card {
+  width: 55vw;
+  padding: 2rem;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.41);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.6px);
+  -webkit-backdrop-filter: blur(6.6px);
+  text-align: center;
+}
+
+#quote::after {
+  content: "\201D";
+}
+
+#quote::before {
+  content: "\201C";
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+}
+
+#detail__char,
+#detail__anime {
+  font-weight: 700;
+  font-style: italic;
+}
+
+button {
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  border-radius: 25px;
+
+  cursor: pointer;
+
+  margin: 0.5rem 0.5rem 1rem 0;
+  padding: 0.8rem;
+  text-align: center;
+  font-weight: 700;
+
+  border: 2px solid black;
+
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+button:hover {
+  box-shadow: 0 0 40px 40px black inset;
+  color: white;
+}
