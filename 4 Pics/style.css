@@ -1,0 +1,57 @@
+:root {
+  --s: 300px;
+  --bg: #e5b769;
+  --top: #edc9ff;
+  --bottom: #e94e77;
+  --left: #f2b79f;
+  --right: #d8cc34;
+}
+
+img {
+  width: var(--s);
+  height: var(
+    --s
+  ); /* better than aspect-ratio in case the image has a height attribute */
+  box-sizing: border-box;
+  object-fit: cover;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+img.top {
+  object-position: bottom;
+  padding-top: var(--s);
+  background: var(--top);
+}
+
+img.bottom {
+  object-position: top;
+  padding-bottom: var(--s);
+  background: var(--bottom);
+}
+
+img.right {
+  object-position: left;
+  padding-right: var(--s);
+  background: var(--right);
+}
+
+img.left {
+  object-position: right;
+  padding-left: var(--s);
+  background: var(--left);
+}
+
+img:hover {
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  grid-template-columns: auto auto;
+  gap: 30px;
+  background-color: var(--bg);
+}

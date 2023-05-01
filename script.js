@@ -15,6 +15,7 @@ const projects = [
   "Instagram Feed",
   "Split Landingpage",
   "Menu glow",
+  "4 Pics",
   "Sliding panels",
   "Loading effect",
   "Spotify waveform",
