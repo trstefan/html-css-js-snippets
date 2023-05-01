@@ -2,14 +2,13 @@
 
 ## :link: Live Demo
 
-<<<<<<< HEAD
 [Demo Link](https://trstefan.github.io/html-css-js-snippets)
 
 ## 📷 Screenshot
 
 ## 📝 Project Description
 
-### Demo
+HTML tracker that contains HTML/CSS/JS snippets.
 
 ### Screenshots
 
@@ -29,39 +28,42 @@
 
 ## 📜 Projects list
 
-|         Project         |                   Demo Link |                   Code Link |
-| :---------------------: | --------------------------: | --------------------------: |
-|        Countdown        |            [Countdown demo] |            [Countdown code] |
-|     Jokes generator     |                [Jokes demo] |                [Jokes code] |
-|    Spotify waveform     |             [Waveform demo] |             [Waveform code] |
-|     Parallax design     |             [Parallax demo] |             [Parallax code] |
-|     SocialMedia VFX     |     [ SocialMedia VFX demo] |    [ SocialMedia VFX code]: |
-|      AOS template       |         [AOS template demo] |         [AOS template code] |
-|       Card effect       |          [Card effect demo] |          [Card effect code] |
-|          Dots           |                 [Dots demo] |                 [Dots code] |
-|    Expandable cards     |                [Cards demo] |                [Cards code] |
-|        Menu glow        |            [Menu glow demo] |            [Menu glow code] |
-|      Digital clock      |                [Clock demo] |                [Clock code] |
-|      Pulse effect       |         [Pulse effect demo] |         [Pulse effect code] |
-|     Instagram feed      |       [Instagram feed demo] |       [Instagram feed code] |
-|     Loading effect      |       [Loading effect demo] |       [Loading effect code] |
-|     Sliding panels      |       [Sliding panels demo] |       [Sliding panels code] |
-|      Dots Loading       |         [Dots loading demo] |         [Dots loading code] |
-|       Hello World       |          [Hello world demo] |          [Hello world code] |
-|     One div loader      |       [One div loader demo] |       [One div loader code] |
-|      Template Page      |    [404 template page demo] |    [404 template page code] |
-|     GoogleAPI fonts     |         [Google fonts demo] |         [Google fonts code] |
-| Hover Effect animation  |         [Hover effect demo] |         [Hover effect code] |
-| Hover Effect2 animation |        [Hover effect2 demo] |        [Hover effect2 code] |
-|  KeyListener Alphabet   | [KeyListener alphabet demo] | [KeyListener alphabet code] |
-|    Virtual Keyboard     |     [Virtual keyboard demo] |     [Virtual keyboard code] |
-|   Split Landing Page    |   [Split landing page demo] |   [Split landing page code] |
-|        3 Buttons        |            [3 buttons demo] |            [3 buttons code] |
-|       Hover Grid        |           [Hover grid demo] |           [Hover grid code] |
-|        FAQ List         |                  [Faq demo] |                  [Faq code] |
-|          Drums          |                [Drums demo] |                [Drums code] |
-|     Catch me Button     |       [Catchme button demo] |       [Catchme button code] |
-|         OddEven         |              [OddEven demo] |              [OddEven code] |
+|         Project         |                     Demo Link |                     Code Link |
+| :---------------------: | ----------------------------: | ----------------------------: |
+|        Countdown        |              [Countdown demo] |              [Countdown code] |
+|     Jokes generator     |                  [Jokes demo] |                  [Jokes code] |
+|    Spotify waveform     |               [Waveform demo] |               [Waveform code] |
+|     Parallax design     |               [Parallax demo] |               [Parallax code] |
+|     SocialMedia VFX     |       [ SocialMedia VFX demo] |      [ SocialMedia VFX code]: |
+|      AOS template       |           [AOS template demo] |           [AOS template code] |
+|       Card effect       |            [Card effect demo] |            [Card effect code] |
+|          Dots           |                   [Dots demo] |                   [Dots code] |
+|    Expandable cards     |                  [Cards demo] |                  [Cards code] |
+|        Menu glow        |              [Menu glow demo] |              [Menu glow code] |
+|      Digital clock      |                  [Clock demo] |                  [Clock code] |
+|      Pulse effect       |           [Pulse effect demo] |           [Pulse effect code] |
+|     Instagram feed      |         [Instagram feed demo] |         [Instagram feed code] |
+|     Loading effect      |         [Loading effect demo] |         [Loading effect code] |
+|     Sliding panels      |         [Sliding panels demo] |         [Sliding panels code] |
+|      Dots Loading       |           [Dots loading demo] |           [Dots loading code] |
+|       Hello World       |            [Hello world demo] |            [Hello world code] |
+|     One div loader      |         [One div loader demo] |         [One div loader code] |
+|      Template Page      |      [404 template page demo] |      [404 template page code] |
+|     GoogleAPI fonts     |           [Google fonts demo] |           [Google fonts code] |
+| Hover Effect animation  |           [Hover effect demo] |           [Hover effect code] |
+| Hover Effect2 animation |          [Hover effect2 demo] |          [Hover effect2 code] |
+|  KeyListener Alphabet   |   [KeyListener alphabet demo] |   [KeyListener alphabet code] |
+|    Virtual Keyboard     |       [Virtual keyboard demo] |       [Virtual keyboard code] |
+|   Split Landing Page    |     [Split landing page demo] |     [Split landing page code] |
+|        3 Buttons        |              [3 buttons demo] |              [3 buttons code] |
+|       Hover Grid        |             [Hover grid demo] |             [Hover grid code] |
+|        FAQ List         |                    [Faq demo] |                    [Faq code] |
+|          Drums          |                  [Drums demo] |                  [Drums code] |
+|     Catch me Button     |         [Catchme button demo] |         [Catchme button code] |
+|         OddEven         |                [OddEven demo] |                [OddEven code] |
+|       Matrix Rain       |            [Matrix rain demo] |            [Matrix rain code] |
+| Anime Quotes Generator  | [Anime Quotes Generator demo] | [Anime Quotes Generator code] |
+|          4Pics          |                  [4Pics demo] |                  [4Pics code] |
 
 [countdown demo]: https://trstefan.github.io/html-css-js-snippets/Countdown/index.html
 [countdown code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Countdown
@@ -125,3 +127,9 @@
 [ oddeven code]: https://github.com/trstefan/html-css-js-snippets/tree/master/OddEven
 [ catchme button demo]: https://trstefan.github.io/html-css-js-snippets/Catch%20me%20Button/index.html
 [ catchme button code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Catch%20me%20Button
+[ matrix rain demo ]: https://github.com/trstefan/html-css-js-snippets/tree/master/Matrix%20Rain
+[ matrix rain code ]: https://trstefan.github.io/html-css-js-snippets/Matrix%20Rain/index.html
+[ 4Pics demo ]: https://trstefan.github.io/html-css-js-snippets/4%20Pics/index.html
+[ 4Pics code ]: https://github.com/trstefan/html-css-js-snippets/tree/master/4%20Pics
+[ anime quotes generator demo ]: https://trstefan.github.io/html-css-js-snippets/Anime%20Quotes%20Generator/index.html
+[ anime quotes generator code]: https://github.com/trstefan/html-css-js-snippets/tree/master/Anime%20Quotes%20Generator
