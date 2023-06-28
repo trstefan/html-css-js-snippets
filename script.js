@@ -4,6 +4,7 @@ const projects = [
   "Matrix Rain",
   "Drums",
   "Anime Quotes Generator",
+  "insertAdjacentElement",
   "Catch me Button",
   "OddEven",
   "Jokes Generator",
